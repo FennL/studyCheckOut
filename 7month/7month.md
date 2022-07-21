@@ -22,3 +22,7 @@ Initial the epic project
 #### 7.20
 白天搬砖
 晚上看了一下webpack学了一下单词
+
+#### 7.21
+白天搬砖
+晚上学习react代理配置和axios封装
