@@ -40,4 +40,49 @@ A is the hook that gets me into B      A是让我进入B的原因
 I'll put some dirt in your eye.
 I missed the part where that's my problem
 ```
+#### 7.25
+```shell
+Pain is inevitable.Suffering is optional
+treadmill 跑步机
+YOLO: You only live once 你只活一次
+VENI VIDI VICI 拉丁月
+Viva la vida lone life life
+to be or not to be 是生存还是毁灭
+Stay hungry,stay foolish.
+Valar Morghulis 凡人皆有一死
+```
+
+#### 8.20
+
+```shell
+terrestrial 地球上的 extra-terrestrial 地外生命
+Mercury 水星
+Martian 火星人
+Jupiter 木星
+Saturn 土星
+Uranus 天王星
+Poseidon's kiss 波塞冬之吻
+Pluto 冥王星
+```
+
+#### 8.21
+
+```shell
+molecular level 分子级的 
+molecules 分子
+In one glass of water
+constant motion 不断地运动
+tremendous problems 巨大的问题 
+presidency 总统职位
+```
+
+##### 8.25
+
+```shell
+egoist 自以为了不起的人
+drive backward into the garage 倒车入库 reverse parking
+torch v放火烧 n火炬
+reserved 保留座位
+contact lesens 隐形眼镜
+```
 
